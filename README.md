@@ -1,3 +1,3 @@
-# Welcome
+# Lottozahlen
 
-Main Repo für alle meine Lösungen und Ansätze zu Aufgaben im Fach Programmieren
+Source-Code ohne Dokumentation
