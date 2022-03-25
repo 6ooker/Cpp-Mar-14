@@ -13,5 +13,9 @@ vieles an code-spezifischen Doku ist im Source-Code als Kommentar hinterlegt.
 Bei Fragen und Vorschlägen erstellt gerne einen Issue oder schreibt auf  
 unserem Discord.
 
+Branches:
+[Lottozahlen Projekt](https://github.com/6ooker/coden-mit-rik/tree/Lottozahlen-projekt)
+
+
 
 [Wiki]: https://github.com/6ooker/coden-mit-rik/wiki "Rik's Code Wiki"
